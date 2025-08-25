@@ -24,7 +24,7 @@ ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/q8hps6.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -44,7 +44,7 @@ OWNER_NAME: process.env.OWNER_NAME || "zezetech",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© POWER BY zezetech*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/q8hps6.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *FAITH47*⚡",
 // add alive msg here 
