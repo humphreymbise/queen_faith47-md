@@ -1,7 +1,4 @@
-<a><img src=''/></a><a><img src=''/></a>
 
-<p align="center">
-  <a href="https://github.com/humphreymbise/queen_faith47-md">
     <img alt="faith logo"  src="https://files.catbox.moe/q8hps6.jpg">
   </a>
 </p>
