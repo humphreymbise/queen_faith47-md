@@ -1,12 +1,12 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/q8hps6.jpg'/></a><a><img src='https://files.catbox.moe/q8hps6.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/criss-vevo">
-    <img alt="criss-vevo logo"  src="https://res.cloudinary.com/dgy2dutjs/image/upload/v1751624587/url.crissvevo.co.tz/IMG_2353_fze42l.jpg">
+  <a href="https://github.com/humphreymbise/queen_faith47-md">
+    <img alt="faith logo"  src="https://files.catbox.moe/q8hps6.jpg">
   </a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/q8hps6.jpg'/></a><a><img src='https://files.catbox.moe/q8hps6.jpg'/></a>
 
 <p align="center">
   <a href="https://github.com/criss-vevo/CRISS-AI/fork">
