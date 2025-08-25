@@ -1,4 +1,4 @@
-<a><img src='https://files.catbox.moe/q8hps6.jpg'/></a><a><img src='https://files.catbox.moe/q8hps6.jpg'/></a>
+<a><img src=''/></a><a><img src=''/></a>
 
 <p align="center">
   <a href="https://github.com/humphreymbise/queen_faith47-md">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<a><img src='https://files.catbox.moe/q8hps6.jpg'/></a><a><img src='https://files.catbox.moe/q8hps6.jpg'/></a>
+<a><img src=''/></a><a><img src=''/></a>
 
 <p align="center">
   <a href="https://github.com/criss-vevo/CRISS-AI/fork">
