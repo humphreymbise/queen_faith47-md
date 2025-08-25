@@ -1,5 +1,4 @@
-
-    <img alt="faith logo"  src="https://files.catbox.moe/q8hps6.jpg">
+src="https://files.catbox.moe/q8hps6.jpg">
   </a>
 </p>
 
