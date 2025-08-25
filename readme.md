@@ -1,8 +1,3 @@
-src="https://files.catbox.moe/q8hps6.jpg">
-  </a>
-</p>
-
-
 
 <p align="center">
   <a href="https://deploy-on-render-alpha.vercel.app">
