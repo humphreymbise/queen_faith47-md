@@ -1,39 +1,3 @@
-const { cmd } = require('../command'); // Assuming you have a command handler
-const axios = require('axios'); // For making HTTP requests to GitHub API
-const fs = require('fs'); // For saving downloaded files
-
-// GitHub repository details
-const REPO_OWNER = 'zezeweb';
-const REPO_NAME = 'queen_faith47';
-const PLUGINS_FOLDER = 'plugins'; // Folder where plugins are stored
-
-// GitHub API base URL
-const GITHUB_API_URL = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${PLUGINS_FOLDER}`;
-
-// Store the list of plugins temporarily
-let pluginListCache = [];
-
-// Command to list all plugins
-cmd({
-    pattern: "listplugins", // Command trigger
-    alias: ["pluginslist", "listplugs", "listplugin"], // Aliases
-    use: '.listplugins', // Example usage
-    react: "📂", // Emoji reaction
-    desc: "List all available plugins in the bot's repository.", // Description
-    category: "utility", // Command category
-    filename: __filename // Current file name
-},
-
-async (conn, mek, m, { from, reply }) => {
-    try {
-        // Fetch the folder structure from GitHub
-        const response = await axios.get(GITHUB_API_URL);
-        const plugins = response.data.filter(item => item.type === 'file'); // Only list files
-
-        if (plugins.length === 0) {
-            return reply("*No plugins found in the repository.*");
-        }
-
         // Cache the plugin list for reply functionality
         pluginListCache = plugins;
 
